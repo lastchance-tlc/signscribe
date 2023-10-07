@@ -76,7 +76,6 @@ decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
-dlib @ file:///C:/Users/bhave/Downloads/Flask-Web-Framework-main/Flask-Web-Framework-main/Tutorial%208/dlib-19.23.0-cp39-cp39-win_amd64.whl
 docutils @ file:///C:/ci/docutils_1620828264669/work
 enchant==0.0.1
 entrypoints @ file:///C:/ci/entrypoints_1649926621128/work
