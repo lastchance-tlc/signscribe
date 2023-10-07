@@ -78,6 +78,3 @@ def predict():
 
     return jsonify(predicted_character)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
